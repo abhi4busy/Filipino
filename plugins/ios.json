@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.mobile.filipino"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.mobile.filipino"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.mobile.filipino"
+        }
+    },
+    "dependent_plugins": {}
+}
